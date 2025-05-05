@@ -19,7 +19,7 @@ const About = () => {
             <Typography variant="h6">
               🔗 Deployed Link:{" "}
               <Link
-                href="https://your-deployed-link.netlify.app"
+                href="https://loan-calculator-gilt-mu.vercel.app/"
                 target="_blank"
                 rel="noopener"
                 underline="hover"
